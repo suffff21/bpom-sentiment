@@ -27,7 +27,7 @@ Proyek ini menggunakan pendekatan **CRISP-DM** dengan tahapan:
    - Tokenizing  
    - Stopword Removal  
    - Stemming  
-4. **Modeling** –  
+4. **Modeling**
    - Ekstraksi fitur dengan **CountVectorizer**  
    - Klasifikasi dengan algoritma **Random Forest (100 trees)**  
 5. **Evaluation** – Menggunakan **Confusion Matrix, Accuracy, Precision, Recall, F1-score**
