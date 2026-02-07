@@ -48,5 +48,4 @@ Proyek ini menggunakan pendekatan **CRISP-DM** dengan tahapan:
   - `google-play-scraper`  
 
 ## Kesimpulan
-Model **Lexicon-Based + Random Forest** mampu mengklasifikasikan sentimen ulasan BPOM Mobile dengan cukup baik.  
-Hasil penelitian menunjukkan kecenderungan sentimen **negatif** dari pengguna, yang dapat menjadi bahan evaluasi bagi pengembang aplikasi.  
+Model **Lexicon-Based + Random Forest** mampu mengklasifikasikan sentimen ulasan BPOM Mobile dengan cukup baik. Hasil penelitian menunjukkan kecenderungan sentimen **negatif** dari pengguna, yang dapat menjadi bahan evaluasi bagi pengembang aplikasi.  
