@@ -1,4 +1,4 @@
-# BPOM Mobile Sentiment
+# Analisis Sentimen Aplikasi BPOM Mobile
 Analisis sentimen ulasan aplikasi **BPOM Mobile** pada platform Google Play Store menggunakan metode **Lexicon-Based** dan algoritma **Random Forest**.
 
 ## Latar Belakang
